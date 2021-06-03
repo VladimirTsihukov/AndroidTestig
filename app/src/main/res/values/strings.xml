@@ -3,6 +3,8 @@
     <string name="email_label">Your Email address:</string>
     <string name="save">Save</string>
     <string name="email_hint">Enter your Email</string>
+    <string name="password_hint">Enter your Password</string>
     <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password">Invalid password</string>
     <string name="valid_email">OK</string>
 </resources>
