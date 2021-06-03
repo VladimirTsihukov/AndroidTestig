@@ -6,7 +6,7 @@ import java.util.regex.Pattern
 
 class EmailValidator : TextWatcher {
 
-    internal var isValid = false
+    var isValid = false
 
     override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) = Unit
 
